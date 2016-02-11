@@ -13,7 +13,7 @@
 
 	$message     	= "First Name: $fname, \nLast Name: $lname, \nEmail: $email, \nCell: $cell, \nAddress: $address, \nZip Code: $zip, \nCity: $city, \nProgram: $program.";
 
-	if(mail('example@gmail.com', "Test Sub", $message))
+	if(mail('pwjablonski@gmail.com', "Test Sub", $message))
 		$form_data['success'] = true;
 	else
 		$form_data['success'] = false;
