@@ -507,8 +507,14 @@ ul li {
 .partner .partner-box-7 {
   background: url(../images/partner/partner-blueprint.gif) no-repeat center center/contain;
 }
-.partner .partner-box-8 {
-  background: url(../images/partner/partner-healthify.png) no-repeat center center/contain;
+/*.partner .partner-box-8 {*/
+/*  background: url(../images/partner/partner-healthify.png) no-repeat center center/contain;*/
+/*}*/
+.partner .partner-box-9 {
+  background: url(../images/partner/partner-not62.jpg) no-repeat center center/contain;
+}
+.partner .partner-box-10 {
+  background: url(../images/partner/partner-your-logo.png) no-repeat center center/contain;
 }
 
 /* 
