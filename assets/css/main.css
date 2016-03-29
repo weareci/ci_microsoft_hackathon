@@ -495,6 +495,9 @@ ul li {
 .partner .partner-box-3 {
   background: url(../images/partner/partner-ctw.png) no-repeat center center/contain;
 }
+.partner .partner-box-3-5 {
+  background: url(../images/partner/partner-chopt.png) no-repeat center center/contain;
+}
 .partner .partner-box-4 {
   background: url(../images/partner/partner-udacity2.png) no-repeat center center/contain;
 }
